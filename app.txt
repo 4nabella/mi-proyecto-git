@@ -1,1 +1,2 @@
 Nota random dentro del archivo app.
+Nueva nota para nuevo commit.
